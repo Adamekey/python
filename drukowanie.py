@@ -1,0 +1,2 @@
+print('Programuje w Pythonie!')
+
