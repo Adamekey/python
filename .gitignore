@@ -1,6 +1,6 @@
 # ADA: pyCharm
-.idea
-venv
+.idea/
+venv/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
